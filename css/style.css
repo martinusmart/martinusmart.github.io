@@ -50,6 +50,7 @@ p {
 
 .lingkaran {
     background-image: url("../img/martinus.jpg");
+    background-size: 100%;
     display: inline-block;
     border-radius:50%;
     width: 128px;
